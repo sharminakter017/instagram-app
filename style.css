@@ -1,0 +1,158 @@
+
+.icon-box{
+    display: flex;
+    align-items: center;
+    
+   
+}
+.header{
+    display: flex;
+    vertical-align: middle;
+}
+.item img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.item{
+    margin-right: 28px;
+  
+   
+}
+.mid{
+    position: relative;
+}
+.search-icon {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    font-size: 20px;
+    color: #bab3b3;
+}
+
+.input-search {
+    width: 80%;
+    background-color: #efefef;
+    outline: none;
+    border: none;
+    height: 45px;
+    position: relative;
+    padding-left: 50px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.row.my-row {
+    align-items: center;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+i.fas.fa-ellipsis-h {
+    font-size: 22px;
+    padding-right: 8px;
+    padding-top: 8px;
+}
+i.fab.fa-wordpress-simple.Wordpress {
+    font-size: 40px;
+    color: #454545;
+    padding-left: 10px;
+}
+.left-side h3 {
+    font-size: 18px;
+    align-items: center;
+    display: flex;
+    margin-left: 12px;
+    color: #454545;
+    padding-top: 8px;
+}
+.left-side{
+    display: flex;
+
+}
+.left-side i{
+   
+}
+.body-post img{
+    width: 100%;
+}
+.comment{
+    display: flex;
+   
+}
+.instagram-comment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.c-item {
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+   
+}
+svg._ab6- {
+    color: #000;
+   
+}
+.right-comment {
+    padding-right: 10px;
+}
+.para{
+    padding: 15px;
+}
+.aro{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.right-div{
+    display: flex;
+}
+.right-div img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.nam h3 {
+    font-size: 20px;
+   
+    margin-bottom: 0;
+}
+.nam {
+    margin-left: 20px;
+}
+.rifht a {
+    color: #00abf7 !important;
+    font-weight: 500;
+}
+.right-div p {
+    font-size: 18px;
+    color: #857e7e;
+    font-weight: 500;
+}
+.m-body h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.m-body h3:nth-child(1){
+    color: red;
+}
+.m-body h3:nth-child(3){
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+/* আমাদের কিউটি পুটুস সোনা 🥰🥰
+                        যদিও আমি ওই আপন খালা মনি না তবুও সোনাটাকে সব সময় আপন মনে হয়ে,সেই জায়গা থেকেই কিউটিটার "পুটুস" নাম রাখা
+                        কখনো মন খারাপ থাকলে পুটুসের ভিডিও দেখবেন মন ভালো না হলে এমবি কেনার টাকা আমার থেকে ফেরত নিবেন 😄😄
+                        আল্লাহ তোমাকে মানুষের মতো মানুষ বানাক সেই দোয়া করি মা 🥰🥰
+                        তোমার আন্টির পক্ষ থেকে অনেক অনেক দোয়া আর ভালোবাসা 🥰🥰🥰 */
